@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MusicPlayer/bin/dexedLibs/android-support-v4-3d08ccaf37eebb684768175f991df85c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MusicPlayer/bin/dexedLibs/commons-collections4-4.0-fa68fba2499bd4c54bfca6daf8a8565e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MusicPlayer/bin/dexedLibs/android-support-v4-329e127d7a658895902a76366797fe70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MusicPlayer/bin/dexedLibs/android-support-v4-b0a007d5da73f9262f52f399284bf1bc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MusicPlayer/bin/dexedLibs/commons-collections4-4.0-842be556003ede4229225bc4adf80acc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MusicPlayer/bin/dexedLibs/jsoup-1.8.1-f3e37110cc9f536a2610cac094631e7c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MusicPlayer/bin/dexedLibs/jsoup-1.8.1-f5aa3d459483832578da97ac6b842074.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MusicPlayer/bin/dexedLibs/commons-collections4-4.0-c0939c21f31e13b65976fd778ea61309.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MusicPlayer/bin/dexedLibs/jsoup-1.8.1-f48a6a78f953edbdf2dbf40634b96af4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

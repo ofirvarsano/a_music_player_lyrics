@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="07_01_15_music_player_lyrics">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jsoup-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-collections4-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
